@@ -16,7 +16,7 @@
     "react-dom": "^16.4.2",
     "react-modal": "^3.5.1",
     "react-router-dom": "^4.3.1",
-    "react-scripts-ts": "2.17.0",
+    "react-scripts-ts": "^4.0.8",
     "reactstrap": "^6.3.1"
   },
   "scripts": {
